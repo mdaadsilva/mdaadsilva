@@ -73,8 +73,8 @@ Também utilizo Docker para conteinerizar aplicações em ambientes de desenvolv
    
   <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Express"
+    title="Express" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
