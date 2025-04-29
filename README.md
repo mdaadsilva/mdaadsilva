@@ -8,23 +8,6 @@ Trabalho com JavaScript, TypeScript, React e Next.js na construção de interfac
 
 Também utilizo Docker para conteinerizar aplicações em ambientes de desenvolvimento e Git para versionamento de código e colaboração em equipe. Participo ativamente de reuniões, propondo ideias e buscando sempre melhorar a qualidade dos projetos. Sou movido por aprendizado contínuo e pelas boas práticas de desenvolvimento.
 
-<p align="left">
-    <a href="https://github.com/mdaadsilva?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/mdaadsilva?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/mdaadsilva?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/mdaadsilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
