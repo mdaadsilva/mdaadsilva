@@ -163,3 +163,6 @@ Acredito que a melhor tecnologia é aquela que gera impacto, e meu objetivo é s
   />
 
 </p>
+
+![Fake Contributions](https://ghchart.rshah.org/00ff00/mdaadsilva)
+
