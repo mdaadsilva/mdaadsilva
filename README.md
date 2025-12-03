@@ -164,5 +164,7 @@ Acredito que a melhor tecnologia é aquela que gera impacto, e meu objetivo é s
 
 </p>
 
-<img src="https://raw.githubusercontent.com/martin.graphix/martin.graphix/main/fake-contrib.svg" width="800px" />
+<p>
+    <img src="https://raw.githubusercontent.com/martin.graphix/martin.graphix/main/fake-contrib.svg" width="800px" />
+</p>
 
