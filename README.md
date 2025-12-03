@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Martin de Almeida
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Desenvolvedor de Software com um foco incansável em resolver problemas. Minha jornada na programação é guiada pela curiosidade, adaptabilidade e pelo desejo de criar soluções que realmente funcionam.
 
