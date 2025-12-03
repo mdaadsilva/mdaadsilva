@@ -1,13 +1,9 @@
 # 👩🏻‍💻 Martin
 
-**`Desenvolvedor FullStack`**
 
-Me chamo Martin, sou estagiário de Desenvolvimento Fullstack na Universidade de Marília, onde atuo presencialmente em Marília, São Paulo. Estou nessa posição desde abril de 2025 e tenho me dedicado ao desenvolvimento e manutenção de aplicações web com foco em tecnologias modernas.
+Desenvolvedor de Software com um foco incansável em resolver problemas. Minha jornada na programação é guiada pela curiosidade, adaptabilidade e pelo desejo de criar soluções que realmente funcionam.
 
-Trabalho com JavaScript, TypeScript, React e Next.js na construção de interfaces responsivas e dinâmicas, utilizando Tailwind CSS para criar experiências visuais modernas. No backend, implemento APIs REST com Node.js e Express.js, além de gerenciar bancos de dados relacionais como MySQL e PostgreSQL.
-
-Também utilizo Docker para conteinerizar aplicações em ambientes de desenvolvimento e Git para versionamento de código e colaboração em equipe. Participo ativamente de reuniões, propondo ideias e buscando sempre melhorar a qualidade dos projetos. Sou movido por aprendizado contínuo e pelas boas práticas de desenvolvimento.
-
+Acredito que a melhor tecnologia é aquela que gera impacto, e meu objetivo é sempre entregar um trabalho que seja robusto, eficiente e que eleve a experiência do usuário. Independentemente do desafio, encaro-o com proatividade e a certeza de que a colaboração e a organização são a chave para o sucesso.
 ---
 
 ### 🤖 Linguagens e Tecnologias
